@@ -1,8 +1,3 @@
-**Table of Contents**
-
-{{TOC}}
-
-
 # Introduction
 
 The Harvard Library Innovation Lab and Work-Shop Design Studio are collaborating on the design and development of a series Private Talking Spaces for the Harvard Law School Library. These spaces are intended to solve an exigent problem in the HLSL; students need private spaces, insulated from the surrounding library context, in which to engage in naturally noisy activities like phone conversations and remote interviews.
@@ -37,7 +32,7 @@ We often use informal language in a precise (if not technical) sense. This secti
 
 - **Must.** “Must” is a term that’s common to Functional Requirements Specifications. We use it to denote a necessary facet of the project, an acceptance criterion which “must” be met in order for the project to be successful.
 
-- **Opacity.** If something is “opaque”, that means its internal conditions are not obvious to an outside observer. Opacity is not necessarily at odds with legibility, in fact making some aspects of a system or service more opaque can help to make it’s critical components more legible. 
+- **Opacity.** If something is “opaque”, that means its internal conditions are not obvious to an outside observer. Opacity is not necessarily at odds with legibility, in fact making some aspects of a system or service more opaque can help to make it’s critical components more legible.
 
 - **Parameter.** A “parameter” is a quantity with a well-defined domain, which (in our vernacular) varies some architectural effect in space. By way of example: We might talk about window size as a parameter which we can vary to create different senses of enclosure and privacy in the Private Talking Spaces.
 
@@ -87,7 +82,7 @@ By setting up a well-defined space for calls, both groups maintain focus on thei
 
 ## Discoverability
 
-We intend to create focal points around the library which naturally attract and encapsulate high volume behavior. The Private Talking Spaces should legibly communicate their intent as *the* private talking spaces in the Library; they should be easily discoverable to students as places for them to take calls, have remote interviews, and be louder than normal. 
+We intend to create focal points around the library which naturally attract and encapsulate high volume behavior. The Private Talking Spaces should legibly communicate their intent as *the* private talking spaces in the Library; they should be easily discoverable to students as places for them to take calls, have remote interviews, and be louder than normal.
 
 **Questions**
 
@@ -115,7 +110,7 @@ The HLSL is planning a major spatial rethinking over the next few years (startin
 
 
 
-# Existing Conditions and Siting
+# Existing Conditions and Siting
 
 *In this section, we discuss existing spatial and experiential conditions in HLSL. We divide the Library into four different **types** of spaces. These spaces serve different functions and types of behaviors and inhabit different points along the gradients of noise and focus. We identify gaps in these gradients that suggest both sites in the HLSL as well as program functions for the Private Talking Spaces.*
 
@@ -125,11 +120,11 @@ The HLSL is planning a major spatial rethinking over the next few years (startin
 
 ![Existing Conditions – Floor 4](https://d2w9rnfcy7mm78.cloudfront.net/680879/original_79a610b7f08a85fb478c5d36cfd9a669.png)
 
-We’re focusing our attention on the three student-accessible levels of the HLSL. Inside of this area, we’ve identified several different types of a spaces. 
+We’re focusing our attention on the three student-accessible levels of the HLSL. Inside of this area, we’ve identified several different types of a spaces.
 
 **Primary Spaces.** *(Indicated in Light Blue)* For our purposes, primary spaces are the freely accessible spaces which are allocated for students pursuing “traditional library activities“ – research, study, reading, quiet working. The Reading Room is the core example of a primary space in the Library. These are the spaces that meet the primary mandate of the space as a place for intensely focused work. The vibe and ambience in these spaces is one of quiet (even silent) study.
 
-**Supporting Spaces.** *(Indicated in Dark Blue)* Supporting spaces are zones in the library which augment and support primary spaces with additional programmatic capacities. These include group study rooms and the open atria. In general, we’re thinking of supporting spaces as places that make room for (and contain) collaborative work. Ideally, supporting spaces enable a continuous – not disruptive – transition from primary spaces. 
+**Supporting Spaces.** *(Indicated in Dark Blue)* Supporting spaces are zones in the library which augment and support primary spaces with additional programmatic capacities. These include group study rooms and the open atria. In general, we’re thinking of supporting spaces as places that make room for (and contain) collaborative work. Ideally, supporting spaces enable a continuous – not disruptive – transition from primary spaces.
 
 **Service Spaces.** *(Indicated in Dark Red)* Service spaces are zones that are in general inaccessible to students and library patrons. These include *back-of-house* and *behind-the-counter* spaces, but also things like faculty offices. The function and affect of these spaces are governed by whatever tenants happen to be inhabiting the space – as such, they are quite separate from the general intent and mandates of the library. Although they provide necessary functions (such as circulation, reference, or faculty housing), the experience in these spaces is quite different from the general experiential conditions in the library; they are intentionally bounded and discontinuous from the other spaces. As such, they disrupt and are disrupted the continuity of experience through the primary and supporting spaces. (Bathrooms are also a service space – they are indicated in the plans in a lighter red.)
 
@@ -145,7 +140,7 @@ Our current initiative is to reactivate the **border spaces** in the library in 
 
 The border spaces are already serving as a sieve capturing the behaviors that don’t have a home in the library. Students making or receiving phone calls drift from the primary spaces into the library’s borders to make noise in the most comfortable way possible, but this isn’t quite sufficient; the noise still bleeds back into the primary spaces. In an interview situation, students set up camp in stairwells, in the special collections room, or in a hallway by the bathrooms. If they’re lucky, they might find room in one of the supporting spaces, but even this outcome is less than ideal, as it sacrifices a space for group collaboration to an individual need.
 
-The noise bleed-back generated by the impromptu programming of the border spaces is creating an undesirable noise gradient in the library and a disruptive experience for patrons. 
+The noise bleed-back generated by the impromptu programming of the border spaces is creating an undesirable noise gradient in the library and a disruptive experience for patrons.
 
 ![Noise Gradients – Floor 2](https://d2w9rnfcy7mm78.cloudfront.net/680888/original_7abf847e674468cb70266152ef2ed19b.png)
 
@@ -159,7 +154,7 @@ By inserting Private Talking Spaces into existing border zones in the HLSL, we a
 
 2. We formalize an emergent usage pattern. Patrons have already programmed and are using the border zones as spaces to absorb the programs they need, and understand these spaces as such. We’re simply formalizing their requests, supporting their need, and building the infrastructure they need.
 
-The initial sites for the Private Talking Spaces are the central landing zones on each effected floor in the Library (*indicated in dark yellow in the plans below*). These central zones are the circulatory core of the library, and form a contiguous vertical region through each floor. 
+The initial sites for the Private Talking Spaces are the central landing zones on each effected floor in the Library (*indicated in dark yellow in the plans below*). These central zones are the circulatory core of the library, and form a contiguous vertical region through each floor.
 
 We’ll unite these regions on each floor (carrying the footprint of the landings on the 2nd and 3rd floors up into the 4th floor) by introducing Private Talking Spaces, unifying these zones as the home base for noisy activity while containing that activity in a home.
 
@@ -216,13 +211,13 @@ The booths should be accessible to users in wheelchairs and other physical assis
 
 
 ## Power
-For the purpose of supporting electronic communication and especially video interviews and conferencing, the booths should provide wall-socket style outlets. These outlets should be tucked out of the way and should manage the inevitable cables and plugs well. 
+For the purpose of supporting electronic communication and especially video interviews and conferencing, the booths should provide wall-socket style outlets. These outlets should be tucked out of the way and should manage the inevitable cables and plugs well.
 
 ## Climate
-The Private Talking Spaces are small, enclosed boxes, and they’ll need some sort of either active or passive ventilation to keep them at a comfortable climate. This climate control must not interfere with the Noise Containment requirement, either! 
+The Private Talking Spaces are small, enclosed boxes, and they’ll need some sort of either active or passive ventilation to keep them at a comfortable climate. This climate control must not interfere with the Noise Containment requirement, either!
 
 ## Light
-It’s probable that the booths will be used more heavily during the day than at night, but regardless, they should have some internal lighting that’s flattering to the user and doesn’t cause glare on their screens. 
+It’s probable that the booths will be used more heavily during the day than at night, but regardless, they should have some internal lighting that’s flattering to the user and doesn’t cause glare on their screens.
 
 ## Waste
 The booths shouldn’t become a place for people to leave their detritus. This means that it should be difficult to forget your personal effects inside the booth, but it also means that users of the booth should feel a responsibility to keep the booths clean.
@@ -253,7 +248,7 @@ We’ll conclude the first part of the project by building 4 – 6 of these boot
 **Project Strategy Summary**
 
 
-1. *Schematic Design* of the Prototype Booths. 
+1. *Schematic Design* of the Prototype Booths.
 
 2. *Library Fest Survey* Administration.
 
@@ -294,6 +289,6 @@ We’re planning a new space for private phone calls and remote interviews in th
 
 ***
 
-[^1]: Both, Katherine A, Teresa Heitor, and Valério Madeiros. (2013) Spaces for Knowledge: Strategies in academic library planning and design. *Proceedings of the Ninth International Space Syntax Symposium*. p. 8. 
+[^1]: Both, Katherine A, Teresa Heitor, and Valério Madeiros. (2013) Spaces for Knowledge: Strategies in academic library planning and design. *Proceedings of the Ninth International Space Syntax Symposium*. p. 8.
 
 [^2]: Sens, Thomas, AIA, LEED AP. “12 Major Trends in Library Design“. *Building Design + Construction* 10 Aug. 2016. Web: [http://www.bdcnetwork.com/12-major-trends-library-design](http://www.bdcnetwork.com/12-major-trends-library-design)
