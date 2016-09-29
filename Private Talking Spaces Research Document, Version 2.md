@@ -209,6 +209,8 @@ The Private Talking Spaces are individual spaces. They are meant to be occupied 
 ## Accessibility
 The booths should be accessible to users in wheelchairs and other physical assistive devices. The booths should do their utmost to comply with the [ADA Accessibility Guidelines](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/background/adaag).
 
+- ADA Door Width Guidelines specify doors that are a minimum of *32"* across and maximum of *48"* across.
+- ADA Specifies a turning radius of *60"* for manually operated wheelchairs and *94"* for electric wheelchairs.
 
 ## Power
 For the purpose of supporting electronic communication and especially video interviews and conferencing, the booths should provide wall-socket style outlets. These outlets should be tucked out of the way and should manage the inevitable cables and plugs well.
